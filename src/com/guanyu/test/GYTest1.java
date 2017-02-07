@@ -2,7 +2,7 @@ package com.guanyu.test;
 
 public class GYTest1 {
 	public static void main(String[] args) {
-		String testStr="";
+		String testStr="qiaoyucdosc";
 		System.out.println(lns(testStr));
 	}
 	
